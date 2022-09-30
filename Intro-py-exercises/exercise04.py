@@ -35,11 +35,9 @@ if __name__ == "__main__":
         result = 0
 
         # Obtenemos pi a través de la serie de Euler. (La fórmula está dada arriba)
-<<<<<<< HEAD
+
         for j in range(1, SIZE+1):
-=======
-	    for j in range(SIZE):
->>>>>>> 67d287cf0a8951d5737478e8df48f52d5fdb1990
+
             # Primero hacemos la sumatoria
             result += 1.0 / (j * j)
 
