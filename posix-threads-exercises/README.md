@@ -1,6 +1,6 @@
 # Pruebas de tiempos de ejecución, dependiendo de la cantidad de threads.
 # Prueba de Speed up: Para sacar esto sacamos el tiempo de nuestro c++ con 1 hilo y con 4 hilos, y dividimos el de 1 hilo
-entre 4 para sacar el speedup.
+# entre 4 para sacar el speedup.
 
 ### Ejercicio 01
 - Tiempo de ejecución con 1 thread: 2395.61840 ms
