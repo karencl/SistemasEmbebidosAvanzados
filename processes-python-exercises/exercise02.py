@@ -1,7 +1,7 @@
 ## =================================================================
 ##
 ## File: exercise02.py
-## Author(s): Andrea Gonzalez Arredondo A01351820 Karen Cebreros Lopez A01704254
+## Author(s): Andrea Gonzalez Arredondo A01351820 Karen Cebreros Lopez A01704254 Aranza Leal Aguirre A01751706
 ## Description: This file contains the code that performs the sum of 
 ##				all prime numbers less than or equal to MAXIMUM 
 ##              using processes in Python.
