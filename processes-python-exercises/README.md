@@ -3,7 +3,7 @@
 ### Ejercicio 01
 - Tiempo de ejecución con 1 thread: 21470.895263 ms
 - Tiempo de ejecución con 4 threads: 13478.175073 ms
-- Speedup: _ ms / _ ms = 3.8197 ms 
+- Speedup: _ ms / _ ms = _ ms 
 
 ### Ejercicio 02
 - Tiempo de ejecución con 1 thread: 3486.150878 ms
