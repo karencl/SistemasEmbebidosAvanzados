@@ -3,12 +3,12 @@
 ### Ejercicio 01
 - Tiempo de ejecución con 1 thread: 21470.895263 ms
 - Tiempo de ejecución con 4 threads: 13478.175073 ms
-- Speedup: _ ms / _ ms = _ ms 
+- Speedup: 21470.895263 ms / 13478.175073 ms = 1.59301204 ms 
 
 ### Ejercicio 02
 - Tiempo de ejecución con 1 thread: 3486.150878 ms
 - Tiempo de ejecución con 4 threads: 1332.780981 ms
-- Speedup: _ ms / _ ms = _ ms
+- Speedup: 3486.150878 ms / 1332.780981 ms = 2.615696748 ms
 
 ### Ejercicio 03
 - Tiempo de ejecución con 1 thread: _ ms
@@ -18,6 +18,6 @@
 ### Ejercicio 04
 - Tiempo de ejecución con 1 thread: 205.058422 ms
 - Tiempo de ejecución con 4 threads: 153.694018 ms
-- Speedup: _ ms / _ ms = _ ms
+- Speedup: 205.058422 ms / 153.694018  ms = 1.334199109 ms
 
 Entonces la ejecución con 4 hilos es más rápido en todos los ejercicios, que cuando solo existe 1 hilo
