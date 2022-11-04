@@ -18,7 +18,7 @@ import threading
 
 # CORES = mp.cpu_count() 
 CORES = 4
-SIZE = 10000 ##1e5
+SIZE = 1000 ##1e5
 
 def eSort(start, end, array, queue_new_pos):
     for i in range(start, end):
@@ -56,7 +56,7 @@ if __name__ == "__main__":
         for process in processes:
             process.join()
             
-        while not queue_new_pos.empty:
+        for i in range(CORES):
             elem = queue_new_pos.get()
             pos = elem[0]
             value = elem[1]
