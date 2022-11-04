@@ -1,7 +1,7 @@
 ## =================================================================
 ##
 ## File: exercise04.py
-## Author(s): Andrea Gonzalez Arredondo A01351820 Karen Cebreros Lopez A01704254
+## Author(s): Andrea Gonzalez Arredondo A01351820 Karen Cebreros Lopez A01704254 Aranza Leal Aguirre A01751706
 ## Description: This file implements the PI approximation using the
 ##				series proposed by Euler.
 ##				pi = sqrt ( 6 * sumatoria(i = 1-N) (1 / i^2) )
